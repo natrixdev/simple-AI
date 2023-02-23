@@ -20,3 +20,8 @@ response = ia.respond("What's the weather like today?")
 print(response) # "Expect some rain later"
 ```
 
+**Support:** <br/>
+| Star                                     | Fork                                     |
+| ---------------------------------------- | ---------------------------------------- |
+| ![Star](https://i.imgur.com/41nhvJ1.png) | ![Fork](https://i.imgur.com/MOtHDPV.png) |
+
